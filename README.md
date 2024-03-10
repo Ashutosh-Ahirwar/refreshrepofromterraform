@@ -1,2 +1,2 @@
 # refreshrepofromterraform
-my repo from terraform {text inside bracket is manually added}
+my repo from terraform added text {text inside bracket is manually added}
